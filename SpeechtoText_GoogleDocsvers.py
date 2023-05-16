@@ -6,9 +6,9 @@ from googleapiclient.discovery import build
 
 r = sr.Recognizer()
 
-credentials_file = r'C:\Users\Unlea\Documents\V.S.C. Projects\Json files\transfer_file.json'
+credentials_file = r'path/to/you/transfer_file.json' #make sure to nake it transfer_file.json
 
-google_docs_file_id = '1kGpyoMgChhfhgLSsDO7chHni1L0VcCOo69rkVK9XYmY'
+google_docs_file_id = 'example'#grab it from the url, its usually after d/
 
 scope = ['https://www.googleapis.com/auth/drive']
 
