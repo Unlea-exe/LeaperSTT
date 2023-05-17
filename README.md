@@ -1,4 +1,11 @@
 # Leaper STT
 
-My first python project to ever get released to the public, it is comepletely open sourced and you can use it any time.
-If you do want to help me, you can dm me on discord. Unlea#3914
+How to use:
+
+First download python https://www.python.org/
+
+Install it and use any code editor of your choice (VSCode, Notepad/++, PyCharm)
+
+Load the file and your done!
+
+For SpeechtoText_Google
