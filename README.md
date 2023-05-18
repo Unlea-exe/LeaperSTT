@@ -12,7 +12,13 @@ Load the file and your done!
 
 For SpeechtoText_Googlevers.py
 
-First go to https://console.cloud.google.com/apis/library
+Will add the tutorial later on
 
-Create an account and head to Credentials
+--------------------------------------------------------------------------------------
 
+For SpeechToText_Tkinter.py
+
+This Version is the version with a Simple GUI. I used a custom Tkinter GUI interface which you have to install.
+
+Do:
+~~~pip install sv_ttk~~~
