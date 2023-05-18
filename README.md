@@ -21,4 +21,7 @@ For SpeechToText_Tkinter.py
 This Version is the version with a Simple GUI. I used a custom Tkinter GUI interface which you have to install.
 
 Do:
-~~~pip install sv_ttk~~~
+
+` pip install sv_ttk `
+
+And Thats it!
